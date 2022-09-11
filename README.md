@@ -32,7 +32,8 @@ test
 [*] Count> 2
 test
 [*] Count> 3
-[!] Finished!```
+[!] Finished!
+```
 ______________________________________________________________________________
 
 ### this will be a terminal code like 'ifconfig' , 'progress.exe'
